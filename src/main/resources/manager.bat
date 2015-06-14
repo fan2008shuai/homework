@@ -1,0 +1,1 @@
+jre\bin\java org.homework.manager.ManagerMain
